@@ -1,0 +1,38 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/catalin/Play/trainer/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/catalin/Play/trainer/app/models/application_record.rb": [
+        0,
+        0,
+        0
+      ],
+      "/Users/catalin/Play/trainer/app/jobs/application_job.rb": [
+        0,
+        0
+      ],
+      "/Users/catalin/Play/trainer/app/controllers/application_controller.rb": [
+        0,
+        0
+      ],
+      "/Users/catalin/Play/trainer/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/catalin/Play/trainer/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1554562414
+  }
+}
